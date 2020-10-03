@@ -1,7 +1,7 @@
 <h1>
- ⭐️ Project Name Goes here ⭐️
+ ⭐️ Where's my Sticker? ⭐️
 </h1>
-Project description goes here.
+Search for stickers on WhatsApp Web through the Where Is My Sticker Chrome Extension.
 <br> 
 
 <br>
@@ -11,9 +11,16 @@ Project description goes here.
 [![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=flat-square&logo=appveyor)](INSERT_LINK_FOR_DOCS_HERE) 
   [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=flat-square&logo=appveyor)](INSERT_UI_LINK_HERE)
 
+## About Where is my Sticker
+- Have you ever saved a relatable or cool sticker but couldn't find it later when the moment was right? Where Is My Sticker will help you find the right sticker at the right time.
+- The project is aimed to work the same way searching for GIFs work.
+- Chrome Extension.
 
 ## Features
-- Insert list of features here
+- Search for stickers
+- Classify and tag stickers
+- Add relatable names
+- Automated tagging and labelling using Image Processing
 
 
 ## Instructions to run
